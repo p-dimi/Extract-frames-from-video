@@ -1,0 +1,3 @@
+Frames will be names frame#.png where # stands for the frame number.
+The video is read from start to finish, so all frames are in a sequence.
+Useful for making your own datasets, or whatever else you have in mind.
